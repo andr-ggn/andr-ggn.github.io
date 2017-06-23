@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Z56KK23XJZ.com.appsflyer.iOS-Universal-Links",
+        "paths": [ "/ios-links/*" ]
+      }
+    ]
+  }
+}
