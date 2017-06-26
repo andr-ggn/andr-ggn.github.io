@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "6UQAD4B3U2.com.appsflyer.iOS-Universal-Links",
-        "paths": [ "/ios-links/*" ]
+        "paths": [ "/appsflyer.onelink.me/*" ]
       }
     ]
   }
