@@ -5,14 +5,6 @@
       {
         "appID": "6UQAD4B3U2.com.appsflyer.iOS-Universal-Links",
         "paths": [ "/ios-links/*" ]
-      },
-      {
-        "appID": "Z56KK23XJZ.com.appsflyer.iOS-Universal-Links",
-        "paths": [ "*" ]
-      },
-      {
-        "appID": "6UQAD4B3U2.com.appsflyer.iOS-Universal-Links",
-        "paths": [ "*" ]
       }
     ]
   }
