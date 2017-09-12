@@ -3,8 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "6UQAD4B3U2.com.appsflyer.iOS-Universal-Links",
-        "paths": [ "/appsflyer.onelink.me/*" ]
+        "appID": "6UQAD4B3U2.com.appsflyer.support.one",
+        "paths": [ "/appsflyer.onelink.me/*", /ttes.onelink.me/* ]
       }
     ]
   }
